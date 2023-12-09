@@ -1,0 +1,2 @@
+# Quiz-Game-Project
+ Welcome to my C++ Quiz Game! Start by registering your name and password, and if there's a mistake, the game guides you to try again. Once logged in, enjoy two exciting modes: Practice and Quiz. Practice Mode offers questions with answers, while Quiz Mode challenges you to answer questions.  After each quiz, your score is revealed, and the game saves it in a text file for you to check later. Explore multiple subjects, choosing the one that interests you the most. It's a fun and interactive way to learn while keeping track of your progress!
