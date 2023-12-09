@@ -1,0 +1,590 @@
+1
+Computer Programming “C language”
+1. Which of the following language is predecessor to C Programming Language?
+a) A
+b) B
+c) BCPL
+d) C++
+Ans: c
+2. C programming language was developed by
+a) Dennis Ritchie
+b) Ken Thompson
+c) Bill Gates
+d) Peter Norton
+Ans: a
+3. C was developed in the year ___
+a) 1970
+b) 1972
+c) 1976
+d) 1980
+Ans: b
+4. C is a ___ language
+a) High Level
+b) Low Level
+c) Middle Level
+d) Machine Level
+Ans: c
+5. C language is available for which of the following Operating Systems?
+a) DOS
+b) Windows
+c) Unix
+d) All of these
+Ans: d
+6. Which of the following symbol is used to denote a pre-processor statement?
+a) !
+b) #
+c) ~
+d) ;
+Ans: b
+7. Which of the following is a Scalar Data type
+a) Float b) Union
+c) Array d) Pointer
+Ans: a
+8. Which of the following are tokens in C?
+a) Keywords b) Variables
+c) Constants d) All of the above
+Ans: d 
+2
+9. What is the valid range of numbers for int type of data?
+a) 0 to 256
+b)
+-32768 to +32767
+c)
+-65536 to +65536
+d) No specific range
+Ans: b
+10. Which symbol is used as a statement terminator in C?
+a) !
+b) #
+c) ~
+d) ;
+Ans: d
+11. Which escape character can be used to begin a new line in C?
+a)
+\a
+b)
+\b
+c)
+\m
+d)
+\n
+Ans: d
+12. Which escape character can be used to beep from speaker in C?
+a)
+\a
+b)
+\b
+c)
+\m
+d)
+\n
+Ans: a
+13. Character constants should be enclosed between ___
+a) Single quotes
+b) Double quotes
+c) Both a and
+b d) None of these
+Ans: a
+14. String constants should be enclosed between ___
+a) Single quotes
+b) Double quotes
+c) Both a and b
+d) None of these
+Ans: b
+15. Which of the following is invalid?
+a) ‘’ b) ““
+c) ‘a’ d) ‘abc’
+Ans: d
+16. The maximum length of a variable in C is ___
+a) 8 b) 16
+c) 32 d) 64
+Ans: a 
+3
+17. What will be the maximum size of a float variable?
+a) 1 byte
+b) 2 bytes
+c) 4 bytes
+d) 8 bytes
+Ans: c
+18. What will be the maximum size of a double variable?
+a) 1 byte
+b) 4 bytes
+c) 8 bytes
+d) 16 bytes
+Ans: c
+19. A declaration float a,b; occupies ___ of memory
+a) 1 byte
+b) 4 bytes
+c) 8 bytes
+d) 16 bytes
+Ans: c
+20. The size of a String variable is
+a) 1 byte
+b) 8 bytes
+c) 16 bytes
+d) None of these
+Ans: d
+21. Which of the following is an example of compounded assignment statement?
+a) a=5
+b) a+=5
+c) a=b=c
+d) a=b
+Ans: b
+22. The operator && is an example for ___ operator.
+a) Assignment
+b) Increment
+c) Logical
+d) Rational
+Ans: c
+23. The operator & is used for
+a) Bitwise AND
+b) Bitwise OR
+c) Logical AND
+d) Logical OR
+Ans: a
+24. The operator / can be applied to
+a) integer values b) float values
+c) double values d) All of these
+Ans: b 
+4
+25. The equality operator is represented by
+a) :=
+b) .EQ.
+c) =
+d) ==
+Ans: d
+26. Operators have hierarchy. It is useful to know which operator
+a) is most important
+b) is used first
+c) is faster
+d) operates on large numbers
+Ans: b
+27. The bitwise AND operator is used for
+a) Masking
+b) Comparison
+c) Division
+d) Shifting bits
+Ans: a
+28. The bitwise OR operator is used to
+a) set the desired bits to 1
+b) set the desired bits to 0
+c) divide numbers
+d) multiply numbers
+Ans: a
+29. Which of the following operator has the highest precedence?
+a)*
+b) ==
+c) =>
+d) +
+Ans: d
+30. The associativity of ! operator is
+a) Right to Left
+b) Left to Right
+c) (a) for Arithmetic and (b) for Relational d) (a) for Relational and (b) for Arithmetic
+Ans: a
+31. Which operator has the lowest priority?
+a) ++ b) %
+c) + d) ||
+Ans: d
+32. Which operator has the highest priority?
+a) ++ b) %
+c) + d) ||
+Ans: a 
+5
+33. Operators have precedence. Precedence determines which operator is
+a) faster
+b) takes less memory
+c) evaluated first
+d) takes no arguments
+Ans:
+c
+34. Integer Division results in
+a) Rounding the fractional part
+b) Truncating the fractional part
+c) Floating value
+d) An Error is generated
+Ans:
+b
+35. Which of the following is a ternary operator?
+a) ?:
+b) *
+c) sizeof
+d) ^
+Ans: a
+36. What will be the output of the expression 11 ^ 5?
+a) 5
+b) 6
+c) 11
+d) None of these
+Ans: d
+37. The type cast operator is
+a) (type)
+b) cast()
+c) (;;)
+d) // " "
+Ans: a
+38. Explicit type conversion is known as
+a) Casting
+b) Conversion
+c) Disjunction
+d) Separation
+Ans: a
+39. The operator + in a+=4 means
+a) a=a+4
+b) a+4=a
+c) a=4
+d) a=4+4
+Ans: a
+40. p++ executes faster than p+1 because
+a) p uses registers b) p++ is a single instruction
+c) ++ is faster than + d) None of these
+Ans: b 
+6
+41. Which of the following statements is true?
+a) C Library functions provide I/O facilities
+b) C inherent I/O facilities
+c) C doesn’t have I/O facilities
+d) Both (a) and (c)
+Ans: a
+42. Header files in C contain
+a) Compiler commands
+b) Library functions
+c) Header information of C programs
+d) Operators for files
+Ans: b
+43. Which pair of functions below are used for single character I/O.
+a) Getchar() and putchar()
+b) Scanf() and printf()
+c) Input() and output()
+d) None of these
+Ans: a
+44. The printf() function retunes which value when an error occurs?
+a) Positive value
+b) Zero
+c) Negative value
+d) None of these
+Ans: c
+45. Identify the wrong statement
+a) putchar(65)
+b) putchar('x')
+c) putchar("x")
+d) putchar('
+\n')
+Ans: c
+46. Which of the following is charecter oriented console I/O function?
+a) getchar() and putchar()
+b) gets() and puts()
+c) scanf() and printf()
+d) fgets() and fputs()
+Ans: a
+47. The output of printf("%u",
+-1) is
+a)
+-1 b) minimum int value
+c) maxium int value d) Error message
+Ans: c
+48. An Ampersand before the name of a variable denotes
+a) Actual Value b) Variable Name
+c) Address d) Data Type
+Ans: c 
+7
+49. Symbolic constants can be defined using
+a) # define
+b) const
+c) symbols
+d) None of these
+Ans: b
+50. Null character is represented by
+a) \n
+b) \0
+c) \o
+d) \e
+Ans: b
+51. Which header file is essential for using strcmp() function?
+a) string.h
+b) strings.h
+c) text.h
+d) strcmp.h
+Ans: a
+52. malloc() function used in dynamic allocation is available in which header file?
+a) stdio.h
+b) stdlib.h
+c) conio.h
+d) mem.h
+Ans: b
+53. File manipulation functions in C are available in which header file?
+a) streams.h
+b) stdio.h
+c) stdlib.h
+d) files.h
+Ans: d
+54. C supports how many basic looping constructs
+a) 2
+b) 3
+c) 4
+d) 6
+Ans: b
+55. A statement differs from expression by terminating with a
+a) ;
+b) :
+c) NULL
+d) .
+Ans: a
+56. What should be the expression return value for a do-while to terminate
+a) 1 b) 0
+c) -1 d) NULL
+Ans: b 
+8
+57. Which among the following is a unconditional control structure
+a) do-while
+b) if-else
+c) goto
+d) for
+Ans: c
+58. Continue statement is used
+a) to go to the next iteration in a loop
+b) come out of a loop
+c) exit and return to the main function
+d) restarts iterations from beginning of loop
+Ans: a
+59. Which operator in C is called a ternary operator
+a) if..then
+b) ++
+c) ?:
+d) ()
+Ans: c
+60. Which of the following header file is required for strcpy() function?
+a) string.h
+b) strings.h
+c) files.h
+d) strcsspy()
+Ans: a
+61. The meaning of conversion character for data input is
+a) Data item is a long integer
+b) Data item is an unsigned decimal integer
+c) Data item is a short integer
+d) None of the above
+Ans: c
+62. The conversion characters for data input means that the data item is
+a) An unsigned decimal integer
+b) A short integer
+c) A hexadecimal integer
+d) A string followed by white space
+Ans: b
+63. An expression contains relational, assign. ment and arithmetic operators. If
+Parenthesis are not present, the order will be
+a) Assignment, arithmetic, relational b) Relational, arithmetic, assignment
+c) Assignment, relational, arithmetic d) Arithmetic, relational, assignment
+Ans: d
+64. Which of the following is a key word is used for a storage class
+a) printf b) external
+c) auto d) scanf
+Ans: c 
+9
+65. In the C language 'a’ represents
+a) a digit
+b) an integer
+c) a character
+d) a word
+Ans: c
+66. The number of the relational operators in the C language is
+a) Four
+b) Six
+c) Three
+d) One
+Ans: b
+67. A compound statement is a group of statements included between a pair of
+a) double quote
+b) curly braces
+c) parenthesis
+d) a pair of /’s
+Ans: a
+68. A Link is
+a) a compiler
+b) an active debugger
+c) a C interpreter
+d) a analyzing tool in C
+Ans: d
+69. The continue command cannot be used with
+a) for
+b) switch
+c) do
+d) while
+Ans: a
+70. In C, a Union is
+a) memory location b) memory store
+c) memory screen d) None of these
+Ans: b
+71. When the main function is called, it is called with the arguments
+a) argc b) argv
+c) None of these d) both a & b
+Ans: d
+72. A multidimensional array can be expressed in terms of
+a) array of pointers rather than as pointers to a group of contiguous array
+b) array without the group of contiguous array
+c) data type arrays
+d) None of these
+Ans: a 
+10
+73. C allows arrays of greater than two dimensions, who will determined this
+a) programmer
+b) compiler
+c) parameter
+d) None of these
+Ans: b
+74. A pointer to a pointer in a form of
+a) multiple indirection
+b) a chain of pointers
+c) both a and b
+d) None of these
+Ans: c
+75. Pointers are of
+a) integer data type
+b) character data type
+c) unsigned integer data types
+d) None of these
+Ans: d
+76. Maximum number of elements in the array declaration int a[5][8] is
+a) 28
+b) 32
+c) 35
+d) 40
+Ans: d
+77. If the size of the array is less than the number of initializers then,
+a) Extra values are being ignored
+b) Generates an error message
+c) Size of Array is increased
+d) Size is neglected when values are given
+Ans: a
+78. Array subscripts in C always start at
+a) -1
+b) 1
+c) 0
+d) Value provided by user
+Ans: c
+79. A Structure
+a) can be read as a single entity
+b) cannot be read as a single entity
+c) can be displayed as a single entity
+d) has member variables that cannot be read individually
+Ans: b
+80. Which is the correct way to declare a pointer?
+a) int_ptr; b) int *ptr;
+c) *int ptr; d) None of these.
+Ans: b 
+11
+81. If you want to exchange two rows in a two dimensional array, the fastest way is to:
+a) Exchange the elements of the 2rows
+b) Exchange the address of each element in the two row
+c) Silence the address of the rows in an array of pointer and exchange the pointer
+d) None of these.
+Ans: c
+82. A type cast is used to
+a) Define a new data type
+b) Force a value to be a particular variable type
+c) Rename an old type
+d) None of these.
+Ans: b
+83. Operator precedence determines which operator
+a) Operators on the largest number
+b) Is used first
+c) Is most important
+d) None of these.
+Ans:b
+84. If you don’t initialize a static array, what will be the element set to?
+a) Zero
+b) A floating point
+c) An undetermined value
+d) None of these.
+Ans: a
+85. Which is more appropriate for reading in a multi-word string?
+a) gets( )
+b) Printf( )
+c) scanf( )
+d) puts ( ).
+Ans: a
+86. The process of translating a source program into machine language is a function
+of:
+a) Compiler b) Translator
+c) Assembler d) None of these.
+Ans: a
+87. Function argument can be
+a) A structure member b) A pointer variable
+c) A complete structure d) All of the above.
+Ans: d
+88. A “switch” statement is used to:
+a) Switch between user defined functions in a program
+b) Switch from one variable to another variable
+c) Jump from one place to another in a program.
+d) None of these.
+Ans: d 
+12
+89. Consider the foll statement: "using C language programmers can write their own library functions".
+a) True
+b) False
+c) May be
+d) None of these.
+Ans: a
+90. C is a ________ level programming language?
+a) Low
+b) High
+c) Middle
+d) None of these.
+Ans: c
+91. A function is a subroutine that may include one or more ____________ designed to perform a specific task.
+a) Functions
+b) Statements
+c) Libraries
+d) Data types.
+Ans:b
+92. What is used as a terminator in C?
+a) ?
+b) ;
+c) :
+d) _
+Ans:b
+93. Which function is necessary to exist in each & every program?
+a) void
+b) sum
+c) main
+d) None of these.
+Ans: c
+94. What is the answer of: 7%3
+a) 2.5
+b) 1
+c) 2
+d) 3
+Ans: b
+95. The _______ chars have values from -128 to 127.
+a) signed b) unsigned
+c) long d) none
+Ans: a
+96. What is the control character for "a single character".
+a) %c b) %d
+c) %i d) %p
+Ans: a 
+13
+97. What is the control character for "a decimal integer".
+a) %c
+b) %d
+c) %i
+d) %p
+Ans: b
+98. What is the control character for "a floating point number".
+a) %c
+b) %d
+c) %i
+d) %f
+Ans: d
+99. C supports the ______ statement to branch unconditionally from one point to another in the program.
+a) continue
+b) goto
+c) break
+d) for
+Ans: b
+100. The _______ is used to break out of the case statements.
+a) continue
+b) break
+c) default
+d) case
+Ans: b

@@ -1,0 +1,279 @@
+1. Message ________ means privacy that the sender and reciever expect privacy.
+A. confidentiality
+
+B. integrity
+
+C. authentication
+
+D. Authorization
+
+discuss
+A.confidentiality
+2. Message_____ means that the data must arrive at the reciever exactly as sent
+A. confidentiality
+
+B. integrity
+
+C. authentication
+
+D. Authorization
+
+discuss
+B.integrity
+
+3. Message _______ means that the receiver is ensured that the message message is coming fromthe indended sender not an imposter.
+A. confidentiality
+
+B. integrity
+
+C. authentication
+
+D. Authorization
+
+discuss
+C.authentication
+4. __________means that a sender must not be able to deny sending a message that he sent.
+A. Confidentiality
+
+B. Integrity
+
+C. Authentication
+
+D. Nonrepudiation
+
+discuss
+D.Nonrepudiation
+
+5. A(n) can be used to preserve the integrity of a document or amessage.
+A. message digest
+
+B. message summary
+
+C. encrypted message
+
+D. ENCRYPTION
+
+discuss
+A.message digest
+6. A(n) function creates a message digest out of a message.
+A. encryption
+
+B. decryption
+
+C. hash
+
+D. integrity
+
+discuss
+C.hash
+7. A hash function must meet criteria.
+A. two
+
+B. three
+
+C. four
+
+D. ten
+
+discuss
+B.three
+8. Password-based authentication can be divided into two broad categories: and_____
+A. fixed; variable
+
+B. time-stamped; fixed
+
+C. fixed; one-time
+
+D. none of the above
+
+discuss
+C.fixed; one-time
+9. _ creates a secret key only between a member and the center.
+A. CA
+
+B. KDC
+
+C. KDD
+
+D. CD
+
+discuss
+B.KDC
+10. The secret key between members needs to be created as a ________key when two members contact KDC.
+A. public
+
+B. session
+
+C. complimentary
+
+D. private
+
+discuss
+B.session
+11. is a popular session key creator protocol that requires an authentica
+A. KDC
+
+B. Kerberos
+
+C. CA ion server and a ticket-granting server.
+
+D. CD
+
+discuss
+A.KDC
+12. A(n) is a hierarchical system that answers queries about keycertification.
+A. KDC
+
+B. PKI
+
+C. CA
+
+D. CD
+
+discuss
+C.CA
+13. Firewalls are to protect against
+A. Virus Attacks
+
+B. Fire Attacks
+
+C. Data Driven Attacks
+
+D. Unauthorized Attacks
+
+discuss
+D.Unauthorized Attacks
+14. The ________criterion ensures that we cannot find two messages that hash to thesame digest
+A. one-wayness
+
+B. weak-collision-resistance
+
+C. strong-collision-resistance
+
+D. Keyless
+
+discuss
+B.weak-collision-resistance
+15. _______________________ is a term used in cryptography that refers to a message beforeencryption or after decryption.
+A. Cipher text
+
+B. Plain text
+
+C. Plain script
+
+D. Original text
+
+discuss
+A.Cipher text
+16. The ________ is encrypted text
+A. cipher text
+
+B. cipher scricpt
+
+C. secret text
+
+D. secret script
+
+discuss
+C.secret text
+
+17. _______________________ ensures that information are in a format that is true andcorrect to its original purposes.
+A. Availability
+
+B. Confidentiality
+
+C. Cryptography
+
+D. Integrity
+
+discuss
+A.Availability
+18. _____________________ ensures that information and resources are available to thosewho need them.
+A. Availability
+
+B. Confidentiality
+
+C. Cryptography
+
+D. Integrity
+
+
+discuss
+D.Integrity
+19. _______________________ is the process of identifying an individual, usually based ona username and password.
+A. Authentication
+
+B. Authorization
+
+C. integrity
+
+D. crytography
+
+discuss
+A.Authentication
+20. ___________________ is the process of giving individuals access to system objectsbased on their identity.
+A. Authentication
+
+B. Authorization
+
+C. key
+
+D. Confidentiality
+
+discuss
+B.Authorization
+21. In symmetric-key cryptography, the key locks and unlocks the box is
+A. Same
+
+B. shared
+
+C. private
+
+D. Public
+
+discuss
+A.Same
+22. The ciphers of today are called round ciphers because they involve
+A. Single Round
+
+B. Double Rounds
+
+C. Multiple Round
+
+D. Round about
+
+discuss
+C.Multiple Round
+23. Symmetric-key cryptography started thousands of years ago when people needed toexchange
+A. Files
+
+B. Packets
+
+C. Secrets
+
+D. Tr
+
+discuss
+A.Files
+24. The Advanced Encryption Standard (AES) was designed
+A. National Institute of Standards and Technology
+
+B. IBM
+
+C. HP
+
+D. Intel
+
+discuss
+A.National Institute of Standards and Technology
+25. The Mobile Application Protocol (MAP) typically runs on top of which protocol ?
+A. SNMP (Simple Network Management Protocol)
+
+B. SMTP (Simple Mail Transfer Protocol)
+
+C. SS7 (Signalling System 7)
+
+D. HTTP (Hyper Text Tr
+
+discuss
+C.SS7 (Signalling System 7)

@@ -1,0 +1,197 @@
+Cyber Security MCQ (Multiple Choice Questions)
+Here are 1000 MCQs on Cyber Security (Chapterwise).
+
+1. What is Cyber Security?
+a) Cyber Security provides security against malware
+b) Cyber Security provides security against cyber-terrorists
+c) Cyber Security protects a system from cyber attacks
+d) All of the mentioned
+View Answer
+
+Answer: d
+Explanation: Cyber Security provides security to a system against cyber-attacks by using various technologies, and processes.
+2. What does cyber security protect?
+a) Cyber security protects criminals
+b) Cyber security protects internet-connected systems
+c) Cyber security protects hackers
+d) None of the mentioned
+View Answer
+
+Answer: a
+Explanation: It protects internet-connected systems such as hardware, software, and data from cyber-attacks. It aims to reduce cyber attacks against the system, network, and technologies by reducing unauthorized exploitation, vulnerability, and threats.
+3. Who is the father of computer security?
+a) August Kerckhoffs
+b) Bob Thomas
+c) Robert
+d) Charles
+View Answer
+
+Answer: a
+Explanation: August Kerckhoffs, a linguist and German professor at HEC, wrote an essay in the Journal of Military Science in February 1883. Kerckhoff had unwittingly established the foundations for contemporary encryption, earning him the title of “Father of Computer Security.”
+4. Which of the following is defined as an attempt to steal, spy, damage or destroy computer systems, networks, or their associated information?
+a) Cyber attack
+b) Computer security
+c) Cryptography
+d) Digital hacking
+View Answer
+
+Answer: a
+Explanation: An effort to steal, spy on, damage, or destroy diverse components of cyberspace, such as computer systems, related peripherals, network systems, and information, is known as a cyber attack.
+5. Which of the following is a type of cyber security?
+a) Cloud Security
+b) Network Security
+c) Application Security
+d) All of the above
+View Answer
+
+Answer:d
+Explanation: Since technology is improving, the threat and attacks against the technology are also increasing. Hence, to provide security, it is divided into the following types:
+Cloud Security: Provides security for the data stored on the cloud.
+Network Security: Protects the internal network from threats.
+Application Security: Protects data stored in the application software.
+advertisement
+
+6. What are the features of cyber security?
+a) Compliance
+b) Defense against internal threats
+c) Threat Prevention
+d) All of the above
+View Answer
+
+Answer: d
+Explanation: The features are as follows:
+Compliance: Creating a program that meets the requirements and rules of the users.
+Defense against internal threats: Should provide security against internal exploitation.
+Threat Prevention: Should be capable of detecting the threat and preventing them.
+7. Which of the following is an objective of network security?
+a) Confidentiality
+b) Integrity
+c) Availability
+d) All of the above
+View Answer
+
+Answer: d
+Explanation: The objectives of network security are Confidentiality, Integrity, and Availability.
+Confidentiality: The function of confidentiality is to keep sensitive company information safe from unwanted access. The confidentiality component of network security ensures that data is only accessible to those who are authorized to see it.
+Integrity: This goal entails ensuring and preserving data accuracy and consistency. The purpose of integrity is to ensure that data is accurate and not tampered with by unauthorized individuals.
+Availability: The purpose of availability in Network Security is to ensure that data, network resources, and services are always available to legitimate users, whenever they need them.
+8. Which of the following is not a cybercrime?
+a) Denial of Service
+b) Man in the Middle
+c) Malware
+d) AES
+View Answer
+
+Answer: d
+Explanation: Denial of Service, Man in the Middle, and Malware exploit the system causing a threat to security, hence they are considered as cybercrime. AES (Advanced Encryption Standard) provides security by encrypting the data.
+9. Which of the following is a component of cyber security?
+a) Internet Of Things
+b) AI
+c) Database
+d) Attacks
+View Answer
+
+Answer: a
+Explanation: The Internet of Things (IoT) is a network of physical objects embedded with sensors, software, and other technologies to connect and exchange data with other devices and systems through the internet.
+10. Which of the following is a type of cyber attack?
+a) Phishing
+b) SQL Injections
+c) Password Attack
+d) All of the above
+View Answer
+
+Answer: d
+Explanation: Attacks are Phishing, SQL Injections, and Password Attack.
+Phishing: The attacker sends a large number of fraudulent emails and gains access to the system.
+SQL Injections: The attacker gains access to the protected information by adding malicious code to the SQL server.
+Password Attack: Attackers gain access to the passwords unethically and gain access to the confidential data.
+11. Which of the following is not an advantage of cyber security?
+a) Makes the system slower
+b) Minimizes computer freezing and crashes
+c) Gives privacy to users
+d) Protects system against viruses
+View Answer
+
+Answer: a
+Explanation: The advantages are minimization of computer freezing and crashes, user privacy, and protection against viruses, worms, etc. Disadvantages include the system becoming slow, configuring firewalls correctly can be difficult, need to update the new software in order to keep security up to date.
+12. “Cyberspace” was coined by _________
+a) Richard Stallman
+b) William Gibson
+c) Andrew Tannenbaum
+d) Scott Fahlman
+View Answer
+
+Answer: b
+Explanation: William Gibson, an American-Canadian fiction pioneer, and coiner, examined the many streams of technology and invented the word “cyberspace” in 1821. The phrase refers to linked technologies that aid in information exchange, interaction with digital devices, storage and digital entertainment, computer and network security, and other information technology-related matters.
+13. In which year has hacking become a practical crime and a matter of concern in the field of cyber technology?
+a) 1991
+b) 1983
+c) 1970
+d) 1964
+View Answer
+
+Answer: c
+Explanation: In the case of hackers in the 1970s, hackers and cyber thieves found out how wired technologies operate and how they might be abused to obtain a competitive edge or misuse the technology.
+14. Governments hired some highly skilled hackers for providing cyber security for the country or state. These types of hackers are termed as _______
+a) Nation / State sponsored hackers
+b) CIA triad
+c) Special Hackers
+d) Government Hackers
+View Answer
+
+Answer: a
+Explanation: Nation / State-sponsored hackers are those who are engaged or paid by a nation’s or state’s government to safeguard the country from cyber terrorists and other groups or individuals, as well as to expose their plans, communications, and activities.
+15. Which of the following act violates cyber security?
+a) Exploit
+b) Attack
+c) Threat
+d) Vulnerability
+View Answer
+
+Answer: b
+Explanation: A threat is a possible danger that might lead to a security breach and cause harm to the system or network. Vulnerability is a word that refers to a flaw in a network or system that might be exploited by an attacker. Exploiting a security flaw might result in unexpected and unwanted effects. A cyber-attack is an attempt by attackers to alter, delete, steal or expose any specific data by gaining unauthorized access.
+16. Which of the following actions compromise cyber security?
+a) Vulnerability
+b) Attack
+c) Threat
+d) Exploit
+View Answer
+
+Answer: c
+Explanation: A threat is defined as a potential hazard that might result in a breach of security and cause harm to the system or network. Vulnerability is a term that refers to a weakness in a network or system that an attacker may exploit. Exploiting a weakness in security might have unintended and undesirable consequences.
+17. Which of the following is the hacking approach where cyber-criminals design fake websites or pages for tricking or gaining additional traffic?
+a) Pharming
+b) Website-Duplication
+c) Mimicking
+d) Spamming
+View Answer
+
+Answer: a
+Explanation: Pharming is a strategy and approach used by cybercriminals to create phony web pages and sites in order to mislead users into giving over personal information such as login IDs and passwords.
+18. Which of the following is not a type of peer-to-peer cyber-crime?
+a) MiTM
+b) Injecting Trojans to a target victim
+c) Credit card details leak in the deep web
+d) Phishing
+View Answer
+
+Answer: c
+Explanation: Peer-to-peer includes phishing, as well as the distribution of Trojans and worms to individuals. The leakage of a huge number of people’s credit card data on the deep web, on the other hand, is classified as a computer-as-weapon cyber-crime.
+19. A cyber-criminal or penetration tester uses the additional data that stores certain special instructions in the memory for activities to break the system in which of the following attack?
+a) Clickjacking
+b) Buffer-overflow
+c) Phishing
+d) MiTM
+View Answer
+
+Answer: b
+Explanation: The excess data that contains certain specific instructions in the memory for actions are projected by a cyber-criminal or penetration tester to break the system in a buffer-overflow attack.
+20. Which of the following do Cyber attackers commonly target for fetching IP address of a target or victim user?
+a) ip tracker
+b) emails
+c) websites
+d) web pages
+View Answer
+
+Answer: c
+Explanation: Enumeration by cyber-attackers is also feasible via websites since attackers target websites in order to obtain the victim’s or target user’s IP address.

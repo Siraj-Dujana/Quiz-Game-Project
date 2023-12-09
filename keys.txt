@@ -1,0 +1,99 @@
+Keyboard Shortcuts:
+
+Below are some of the previous important questions asked in the public examinations. Try it out.
+
+1. What happens when you press CTRL + V key?
+
+A) A capital V letter is typed into your document at the cursor point
+
+B) The selected item is pasted from the clipboard
+
+C) The selected item is pasted to the clipboard
+
+D) The selected drawing objects are distributed vertically on the page
+
+Ans: B
+
+2. What do you press to enter the current date in a cell?
+
+A) CTRL + ; (semicolon)                                                                  B) CTRL + SHIFT + : (colon)
+
+C) CTRL + F10                                                                                     D) CTRL + F11
+
+Ans: A
+
+3. To move to the bottom of a document, press ____
+
+A) Insert key                                                                                      B) Home key
+
+C) CTRL + End key                                                                            D) End key
+
+Ans: C
+
+4. In word you can force a page break ____
+
+A) By positioning your cursor at the appropriate place and pressing the F1 key
+
+B) By positioning your cursor at the appropriate place and pressing CTRL + Enter
+
+C) By using the Insert/Section break                                      
+
+D) By changing the font size of your document
+
+Ans: B
+
+5. Which of the following commands is given to reboot the computer?
+
+A) CTRL + ALT + DEL                                                                         B) CTRL + SHIFT + DEL
+
+C) CTRL + ALT + SHIFT                                                                     D) CTRL + ALT +Tab
+
+Ans: A
+
+6. To find and load a file that has been saved ____
+
+A) Select the Close command                                                     B) Select the New command
+
+C) Select the Save command                                                      D) Select the Open command
+
+Ans: D
+
+7. Which keys enable the input of numbers quickly?
+
+A) Function key                                                                                                B) The numeric keypad
+
+C) Ctrl, Shift and Alt                                                                         D) Alt keys
+
+Ans: B
+
+8. Which keys can be used together with other keys for special tasks?
+
+A) Insert, Delete                                                                              B) Ctrl, Shift
+
+C) Left Arrow, Right Arrow                                                           D) Page Up, Page Down
+
+Ans: B
+
+9. Powerful key that lets you exit a program when pushed ____
+
+A) Arrow keys                                                                                   B) Spacebar
+
+C) Escape key                                                                                    D) Return key
+
+Ans: C
+
+10. To make the number pad act as directional arrows, you press the ____ key.
+
+A) Num lock                                                                                       B) Caps lock
+
+C) Arrows lock                                                                                   D)Shift
+
+Ans: A
+
+11. Press ____ to move the insertion point to the Address box, or to highlight the URL in the Address box.
+
+A. ALT + D                                                                                         B. ALT + A
+
+C. SHIFT + TAB                                                                                  D. TAB + CTRL
+
+Ans. A

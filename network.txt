@@ -1,0 +1,307 @@
+1 Computer Network is
+A. Collection of hardware components and computers
+B. Interconnected by communication channels
+C. Sharing of resources and information
+D. All of the Above
+
+2. Protocols are?
+A. Agreements on how communication components and DTE's are to communicate
+B. Logical communication channels for transferring data
+C. Physical communication channels sued for transferring data
+D. None of above
+
+​3. Two devices are in network if
+A. a process in one device is able to exchange information with a process in another device
+B. a process is running on both devices
+C. PIDs of the processes running of different devices are same
+D. none of the mentioned
+
+4. what is a Firewall in Computer Network?
+A. The physical boundary of Network
+B. An operating System of Computer Network
+C. A system designed to prevent unauthorized access
+D. A web browsing Software
+
+5. The IETF standards documents are called
+A. RFC
+B. RCF
+C. ID
+D. None of the mentioned
+
+6. Which data communication method is used to transmit the data over a serial communication link?
+A. Simplex
+B. Half-duplex
+C. Full duplex
+D. All of above
+
+7. Each IP packet must contain
+A. Only Source address
+B. Only Destination address
+C. Source and Destination address
+D. Source or Destination address
+
+8. What is the minimum header size of an IP packet?
+A. 16 bytes
+B. 10 bytes
+C. 20 bytes
+D. 32 bytes
+
+9. Routing tables of a router keeps track of
+A. MAC Address Assignments
+B. Port Assignments to network devices
+C. Distribute IP address to network devices
+D. Routes to use for forwarding data to its destination
+
+10. Which of the following is not the External Security Threats?
+A. Front-door Threats
+B. Back-door Threats
+C. Underground Threats
+D. Denial of Service (DoS)
+
+11. What is the IP Address range of APIPA?
+A. 169.254.0.1 to 169.254.0.254
+B. 169.254.0.1 to 169.254.0.255
+C. 169.254.0.1 to 169.254.255.254
+D. 169.254.0.1 to 169.254.255.255
+
+12. Which of the following is not the possible ways of data exchange?
+A. Simplex
+B. Multiplex
+C. Half-duplex
+D. Full-duplex
+
+13. The management of data flow between computers or devices or between nodes in a network is called
+A. Flow control
+B. Data Control
+C. Data Management
+D. Flow Management
+
+14. What does the port number in a TCP connection specify?
+A. It specifies the communication process on the two end systems
+B. It specifies the quality of the data & connection
+C. It specify the size of data
+D. All of the above
+
+15. What is the purpose of the PSH flag in the TCP header?
+A. Typically used to indicate end of message
+B. Typically used to indicate beginning of message
+C. Typically used to push the message
+D. Typically used to indicate stop the message
+
+16. Which of the following protocol is/are defined in Transport layer?
+A. FTP
+B. TCP
+C. UDP
+D. B & C
+
+17. The meaning of Straight-through Cable is
+A. Four wire pairs connect to the same pin on each end
+B. The cable Which Directly connects Computer to Computer
+C. Four wire pairs not twisted with each other
+D. The cable which is not twisted
+
+18. What is the size of MAC Address?
+A. 16-bits
+B. 32-bits
+C. 48-bits
+D. 64-bits
+
+19. Repeater operates in which layer of the OSI model?
+A. Physical layer
+B. Data link layer
+C. Network layer
+D. Transport layer
+
+20. Which of the following layer of OSI model also called end-to-end layer?
+A. Presentation layer
+B. Network layer
+C. Session layer
+D. Transport layer
+
+21. Router operates in which layer of OSI Reference Model?
+A. Layer 1 (Physical Layer)
+B. Layer 3 (Network Layer)
+C. Layer 4 (Transport Layer)
+D. Layer 7 (Application Layer)
+
+22. ADSL is the abbreviation of
+A. Asymmetric Dual Subscriber Line
+B. Asymmetric Digital System Line
+C. Asymmetric Dual System Line
+D. Asymmetric Digital Subscriber Line
+
+23. How many layers does OSI Reference Model has?
+A. 4
+B. 5
+C. 6
+D. 7
+
+24 Bridge works in which layer of the OSI model?
+A. Appliation layer
+B. Transport layer
+C. Network layer
+D. Datalink layer
+
+25. Why IP Protocol is considered as unreliable?
+A. A packet may be lost
+B. Packets may arrive out of order
+C. Duplicate packets may be generated
+D. All of the above
+
+
+26. What is the benefit of the Networking?
+A. File Sharing
+B. Easier access to Resources
+C. Easier Backups
+D. All of the Above
+
+27. Which of the following is not the Networking Devices?
+A. Gateways
+B. Linux
+C. Routers
+D. Firewalls
+
+28. What is the maximum header size of an IP packet?
+A. 32 bytes
+B. 64 bytes
+C. 30 bytes
+D. 60 bytes
+
+29. Which of the following is correct in VLSM?
+A. Can have subnets of different sizes
+B. Subnets must be in same size
+C. No required of subnet
+D. All of above
+
+30. DHCP Server provides _____ to the client.
+A. Protocol
+B. IP Address
+C. MAC Address
+D. Network Address
+
+31. What is the address size of IPv6 ?
+A. 32 bit
+B. 64 bit
+C. 128 bit
+D. 256 bit
+
+32. What is the size of Network bits & Host bits of Class A of IP address?
+A. Network bits 7, Host bits 24
+B. Network bits 8, Host bits 24
+C. Network bits 7, Host bits 23
+D. Network bits 8, Host bits 23
+
+33. What is the full form of RAID ?
+A. Redundant Array of Independent Disks
+B. Redundant Array of Important Disks
+C. Random Access of Independent Disks
+D. Random Access of Important Disks
+
+34. What do you mean by broadcasting in Networking?
+A. It means addressing a packet to all machine
+B. It means addressing a packet to some machine
+C. It means addressing a packet to a particular machine
+D. It means addressing a packet to except a particular machine
+
+35. What is the size of Source and Destination IP address in IP header?
+A. 4 bits
+B. 8 bits
+C. 16 bits
+D. 32 bits
+
+36. What is the typical range of Ephemeral ports?
+A. 1 to 80
+B. 1 to 1024
+C. 80 to 8080
+D. 1024 to 65535
+
+37. A set of rules that govern all aspects of information communication is called
+A. Server
+B. Internet
+C. Protocol
+D. OSI Model
+
+38. Controlling access to a network by analyzing the incoming and outgoing packets is called
+A. IP Filtering
+B. Data Filtering
+C. Packet Filtering
+D. Firewall Filtering
+
+39. DHCP is the abbreviation of
+A. Dynamic Host Control Protocol
+B. Dynamic Host Configuration Protocol
+C. Dynamic Hyper Control Protocol
+D. Dynamic Hyper Configuration Protocol
+
+40. What is the use of Bridge in Network?
+A. to connect LANs
+B. to separate LANs
+C. to control Network Speed
+D. All of the above
+
+41. Network congestion occurs
+A. in case of traffic overloading
+B. when a system terminates
+C. when connection between two nodes terminates
+D. none of the mentioned
+
+42. What is the meaning of Bandwidth in Network?
+A. Transmission capacity of a communication channels
+B. Connected Computers in the Network
+C. Class of IP used in Network
+D. None of Above
+
+43 Which of the following is correct regarding Class B Address of IP address
+A. Network bit – 14, Host bit – 16
+B. Network bit – 16, Host bit – 14
+C. Network bit – 18, Host bit – 16
+D. Network bit – 12, Host bit – 14
+
+44. ............provides a connection-oriented reliable service for sending messages
+A. TCP
+B. IP
+C. UDP
+D. All of the above
+
+45. What does Router do in a network?
+A. Forwards a packet to all outgoing links
+B. Forwards a packet to the next free outgoing link
+C. Determines on which outing link a packet is to be forwarded
+D. Forwards a packet to all outgoing links except the originated link
+
+46. What is the use of Ping command?
+A. To test a device on the network is reachable
+B. To test a hard disk fault
+C. To test a bug in a Application
+D. To test a Pinter Quality
+
+47. What is the size of Host bits in Class B of IP address?
+A. 04
+B. 08
+C. 16
+D. 32
+
+48. Which of the following is correct in CIDR?
+A. Class A includes Class B network
+B. There are only two networks
+C. There are high & low class network
+D. There is no concept of class A, B, C networks
+
+49. The processes on each machine that communicate at a given layer are called
+A. UDP process
+B. Intranet process
+C. Server technology
+D. Peer-peer process
+
+50. Which of the following layer is not network support layer?
+A. Transport Layer
+B. Network Layers
+C. Data link Layer
+D. Physical Layer
+
+Correct Answers of Computer Networks MCQ Questions
+1-D	2-A	3-A	4-C	5-A	6-C	7-C	8-C	9-D	10-C
+11-C	12-B	13-A	14-A	15-A	16-D	17-A	18-C	19-A	20-D
+21-B	22-D	23-D	24-D	25-D	26-D	27-B	28-D	29-A	30-B
+31-C	32-A	33-A	34-A	35-D	36-D	37-C	38-C	39-B	40-A
+41-A	42-A	43-A	44-A	45-C	46-A	47-C	48-D	49-D	50-A

@@ -1,0 +1,92 @@
+1. Who is considered the 'father' of the minicomputer and one of the founder fathers of the modern computer industry world-wide?
+(A) George Tate
+(B) Kenneth H. Olsen
+(C) Seymour Cray
+(D) Basic Pascal
+Correct Answer
+2. What does that acronym VGA stand for?
+(A) Extended Graphics Adapter
+(B) Enhanced Graphics Array
+(C) Video Graphics Array
+(D) Color Graphics Array
+Correct Answer
+3. The hardware in which data may be stored for a computer system is called
+(A) Registers
+(B) Bus
+(C) Control unit
+(D) Memory
+Correct Answer
+4. The first practical commercial typewriter was invented in 1867 in the United States by
+(A) Christopher Latham Sholes
+(B) Carlos Glidden
+(C) Samuel Soule
+(D) All of the above
+Correct Answer
+5. Impact printers
+(A) Strike a ribbon against the paper to produce character images
+(B) Include ink-jet and thermal devices
+(C) Are more expensive than Laser printers
+(D) Use optical technology
+Correct Answer
+6. A disk storage medium in the form of an assembly containing a single rigid magnetic disk permanently is
+(A) Fixed disk
+(B) Disk cartridge
+(C) Card punch
+(D) Card reader
+Correct Answer
+7. What type of magnetic material is normally used in bubble memories?
+(A) Magnetic core
+(B) Cobalt
+(C) Garnet
+(D) Metallic
+Correct Answer
+8. Which is used to store firmware?
+(A) RAM
+(B) ROM
+(C) PROM
+(D) EPROM
+Correct Answer
+9. What are the concentric circles on floppy disks know as?
+(A) Tracks
+(B) Cylinders
+(C) Sectors
+(D) Segments
+Correct Answer
+10. The latest PC keyboards use a circuit that senses the movement by the change in its capacitance. What are these keyboards called?
+(A) Capacitance keyboards
+(B) Mechanical keyboards
+(C) QWERTY keyboards
+(D) Dvorak keyboards
+Correct Answer
+11. A device that both transmits and receives data, is
+(A) Transducer
+(B) Trapdoor
+(C) Translator
+(D) Transceiver
+Correct Answer
+12. Computer is free from tiresome and boardroom. We call it
+(A) Accuracy
+(B) Reliability
+(C) Diligence
+(D) Versatility
+Correct Answer
+13. The accuracy of the floating-point numbers re-presentable in two 16-bit words of a computer is approximately
+(A) 16 digits
+(B) 6 digits
+(C) 9 digits
+(D) All of above
+Correct Answer
+14. A set of flip flops integrated together is called _______
+(A) Counter
+(B) Adder
+(C) Register
+(D) None of the above
+Correct Answer
+15. From which generation operating systems were developed?
+(A) First
+(B) Second
+(C) Third
+(D) Fourth
+Correct Answer
+View All Answers
+01. Answer: Option B 02. Answer: Option C 03. Answer: Option D 04. Answer: Option D 05. Answer: Option A 06. Answer: Option B 07. Answer: Option C 08. Answer: Option B 09. Answer: Option A 10. Answer: Option A 11. Answer: Option D 12. Answer: Option C 13. Answer: Option B 14. Answer: Option C 15. Answer: Option C

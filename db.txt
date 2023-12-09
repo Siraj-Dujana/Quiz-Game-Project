@@ -1,0 +1,92 @@
+1. Data Manipulation Language (DML) is not to
+(A) Create information table in the Database
+(B) Insertion of new information into the Database
+(C) Deletion of information in the Database
+(D) Modification of information in the Database
+Correct Answer
+2. In precedence of set operators the expression is evaluated from:
+(A) Left to Left
+(B) Left to Right
+(C) Right to Right
+(D) Right to Left
+Correct Answer
+3. The minimal set of super key is called
+(A) Primary key
+(B) Secondary key
+(C) Candidate key
+(D) Foreign key
+Correct Answer
+4. A type of query that is placed within a WHERE or HAVING clause of another query is called
+(A) Super query
+(B) Sub query
+(C) Master query
+(D) Multi-query
+Correct Answer
+5. A data dictionary doesn't provide information about:
+(A) Where data is located
+(B) The size of the disk storage device
+(C) It allows a many-to-many relationship
+(D) It is conceptually simple
+Correct Answer
+6. In any hierarchy of data organization, the smallest entity to be processed as a single unit is called
+(A) Data field
+(B) Data record
+(C) Data file
+(D) Database
+Correct Answer
+7. A report generator is used to
+(A) Update files
+(B) Print files on paper
+(C) Data entry
+(D) None of the above
+Correct Answer
+8. Related fields in a data base are grouped to form
+(A) Data file
+(B) Data record
+(C) Menu
+(D) Bank
+Correct Answer
+9. A large computer information system maintains many different computer files. Which amongst them is called a perpetual file?
+(A) Specialized file
+(B) Log file
+(C) Master file
+(D) Update file
+Correct Answer
+10. In SQL, which command is used to remove a stored function from the database?
+(A) REMOVE FUNCTION
+(B) DELETE FUNCTION
+(C) DROP FUNCTION
+(D) ERASE FUNCTION
+Correct Answer
+11. Versatile report generators can provide
+(A) Columnar totals
+(B) Subtotals
+(C) Calculations
+(D) All of the above
+Correct Answer
+12. In SQL, which command is used to select only one copy of each set of duplicable rows
+(A) SELECT DISTINCT
+(B) SELECT UNIQUE
+(C) SELECT DIFFERENT
+(D) All of the above
+Correct Answer
+13. The distinguishable parts of a record are called
+(A) Files
+(B) Data
+(C) Fields
+(D) Database
+Correct Answer
+14. The model for a _______ resembles the hierarchical model in many respects.
+(A) Network database
+(B) Relational database
+(C) Distributed database
+(D) Hierarchical database
+Correct Answer
+15. In SQL, which command(s) is(are) used to enable/disable a database trigger?
+(A) ALTER TRIGGER
+(B) ALTER DATABASE
+(C) ALTER TABLE
+(D) MODIFY TRIGGER
+Correct Answer
+View All Answers
+01. Answer: Option A 02. Answer: Option B 03. Answer: Option C 04. Answer: Option B 05. Answer: Option B 06. Answer: Option A 07. Answer: Option B 08. Answer: Option B 09. Answer: Option C 10. Answer: Option C 11. Answer: Option D 12. Answer: Option A 13. Answer: Option C 14. Answer: Option A 15. Answer: Option A
